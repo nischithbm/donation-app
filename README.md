@@ -1,5 +1,13 @@
 Donation App
-===
+=
 
 Test app
-- this is just for testing and learning purpose
+
+
+Setup instructions
+===
+- clone the repository
+- npm install
+- npm start
+
+
